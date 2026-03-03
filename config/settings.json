@@ -1,0 +1,11 @@
+{
+    "risk_aggression": 1,
+    "sentiment_threshold": 0.7,
+    "watchlist": [
+        "AAPL",
+        "BTC/USD",
+        "TSLA",
+        "SOL/USD"
+    ],
+    "autonomous_mode": true
+}
